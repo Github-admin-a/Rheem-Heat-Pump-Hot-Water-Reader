@@ -181,11 +181,3 @@ Temperatures are ignored while the unit is off or booting (`0x00`, `0x03`, `0x20
 - OTA has no password set. Add `ArduinoOTA.setPassword("...")` if you want one.
 
 ---
-
-## Contributing
-
-If you have a different model and can confirm or add status codes or byte meanings, issues and pull requests are welcome. Please include raw hex captures.
-
-## License
-
-Add your chosen license here (e.g. MIT).
